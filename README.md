@@ -7,3 +7,4 @@ Alexandre Almeida Num 1
 Gabriel Nabais N12
 Maria Clara N14
 Daniel N3
+Beatricie N2
